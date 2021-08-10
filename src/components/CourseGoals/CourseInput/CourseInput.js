@@ -1,4 +1,3 @@
-import { PROPERTY_TYPES } from '@babel/types';
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
